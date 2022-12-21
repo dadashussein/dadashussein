@@ -1,21 +1,26 @@
-### Hi there 👋
 
-- 🌱 I’m currently learning <b><i>React-js</i>, <i>React-hooks</i></b>
-- 👯 I’m looking to collaborate on new company.
--  📫 How to reach me: <br/>
- <a href="mailto:huseynzade.dadas@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<!--
-**dadashussein/dadashussein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 🌎 !
+####  I'm  Dadash Huseynzade
+> I am a front-end developer now. The reason I became a programmer was the movie **<a>Matrix</a>**. I knew I wanted to create another world in the future. This is a virtual world. I'm learning everything I need to make that virtual world. I know that it is possible to do what you want and the ideal way is programming. 
+    
+My hobby is combining technology and art to make new complexes. ☕ 🌟 💻
 
-Here are some ideas to get you started:
+   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <b>To contact me on  LinkedIn , Twitter, Gmail </b> : 
+
+
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/dadashussein.svg?style=social&label=Follow%20%40dadashussein)](https://twitter.com/dadashussein)<a href="https://www.linkedin.com/in/dadash-huseynzada-501524255/" rel="nofollow noreferrer"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-social&logo=linkedin&logoColor=white)</a> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-social&logo=gmail&logoColor=white)
+
+# I use which technologies:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://shields.io/badge/react-hook-blue?logo=react&style=plastic)
+![React](https://shields.io/badge/react-context-blue?logo=react&style=plastic)
+![React](https://shields.io/badge/react-router-blue?logo=react&style=plastic)
+
+
+
+
