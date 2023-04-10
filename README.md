@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dadashussein" target="blank"><img src="https://img.shields.io/twitter/follow/dadashussein?logo=twitter&style=for-the-badge" alt="dadashussein" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio](https://dadash.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://dadashussein.github.io/portfolio)
 
 - 📫 How to reach me **huseynzade.dadas@gmail.com**
 
