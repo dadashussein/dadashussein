@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dadash</h1>
-<h3 align="center">Welcome to my repository for front end development. I am a front end developer with in creating beautiful, functional, and user-friendly websites and web applications.</h3>
-
-<p align="left"> <a href="https://twitter.com/dadashussein" target="blank"><img src="https://img.shields.io/twitter/follow/dadashussein?logo=twitter&style=for-the-badge" alt="dadashussein" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [portfolio](https://dadashussein.github.io/portfolio)
-
-- 📫 How to reach me **huseynzade.dadas@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dadashussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dadashussein" height="30" width="40" /></a>
 <a href="https://twitter.com/dadashussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dadashussein" height="30" width="40" /></a>
